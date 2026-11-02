@@ -1,5 +1,5 @@
 # **FPGA-Based Image Processing**
-
+# Sub Task - Real Time Produce Grading
 ## Introduction
 - This project aims to implement basic image processing operations on an FPGA using Verilog HDL. 
 - The objective is to process image pixel data directly in hardware, leveraging the **parallel processing** capabilities of an FPGA for an efficient image manipulation.
