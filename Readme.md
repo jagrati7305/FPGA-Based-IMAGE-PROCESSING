@@ -10,12 +10,12 @@
 
 ```code
 📂 FPGA-based-IMAGE-PROCESSING
-├── 📁 RTL/         # Verilog design files (hardware)
-├── 📁 TB/          # testbenches (simulation only)
-├── 📁 MODEL/       # Python golden models and checkers
-├── 📁 DATA/        # test images, hex files,outputs
-├── 📁 SCRIPTS/     # helper scripts
-├── 📁 DOCS/        # reports, diagrams
+├── 📁 rtl/         # Verilog design files (hardware)
+├── 📁 tb/          # testbenches (simulation only)
+├── 📁 model/       # Python golden models and checkers
+├── 📁 data/        # test images, hex files,outputs
+├── 📁 scripts/     # helper scripts
+├── 📁 docs/        # reports, diagrams
 ├── 📄 .gitignore
 └── 📄 Readme.md
 ```

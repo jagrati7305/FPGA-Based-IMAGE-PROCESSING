@@ -1,0 +1,15 @@
+name,description,true_length_px,true_median_width_px,true_max_width_px
+01_medium_straight,straight medium spear,217,17,19
+02_thin,thin spear (small diameter class),217,9,11
+03_jumbo,very thick spear,217,25,31
+04_bowed_reject,strongly bowed spear -> should be rejected,217,17,21
+05_short_reject,short spear -> should be rejected,121,15,19
+06_s_shape,S-shaped spear,217,17,21
+07_dusty_noisy,"lots of dust, pin-holes and sensor noise",217,17,21
+08_off_centre,spear lying 28 px off the centre line,217,16,19
+09_dim_backlight,"weak back-light, low contrast",217,16,19
+10_empty,nothing on the belt,0,0,0
+11_two_spears,"LIMIT: two spears, only the one nearest the centre is measured",217,26,33
+12_tip_at_right_edge,LIMIT: tip touches the right edge (last 8 columns are lost),214,17.0,21
+13_underexposed,exposure test: whole frame too dark,217,17,19
+14_overexposed,exposure test: back-light saturated,217,17,19
